@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spiromat>
+	<version
+		docVer="1.0"
+		minAppVer="0.0"
+	/>
+
+	<figureSpecs>
+		<figureSpec
+			outerRadius="80"
+			innerRadius="16"
+			penHolePos="0.85"
+			color="#339933"
+			startAngle="0.0"
+			endAngle="12.0"
+			cursorAngle="0.0"
+		>
+			<status
+				visible="true"
+			/>
+		</figureSpec>
+		<figureSpec
+			outerRadius="100"
+			innerRadius="16"
+			penHolePos="0.85"
+			color="#ff0000"
+			startAngle="0.0"
+			endAngle="12.0"
+			cursorAngle="0.0"
+		>
+			<status
+				visible="true"
+			/>
+		</figureSpec>
+	</figureSpecs>
+	<docStatus>
+		<param key="activeFigureIndex" value="1" />
+	</docStatus>
+	<appStatus>
+		<param key="" value=""/>
+	</appStatus>
+</spiromat>

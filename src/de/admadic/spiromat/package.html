@@ -1,0 +1,23 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"
+"http://www.w3.org/TR/REC-html40/loose.dtd">
+<html>
+  <head>
+    <title>Spiromat Application and Applet</title>
+  </head>
+  <body>
+  	<h1>Some General information about the architecture</h1>
+    <p>
+    	The Spiromat package uses an AppModel and a DocModel. An AppModel
+    	represents application level parameters or defaults - for instance
+    	the gear size for new figures or documents. A DocModel contains
+    	one or more FigureSpecs. As such it represents a Spiromat document 
+    	in that it contains the actual data elements.
+    </p>
+    <p>
+    	Note that the DocModel does not contain classes for viewing the
+    	elements. The viewers are maintained by a Machine instance.
+    	The Machine instance passes the viewers to the SpiromatCanvas which
+    	is responsible for drawing everything appropriately.
+    </p>
+  </body>
+</html>

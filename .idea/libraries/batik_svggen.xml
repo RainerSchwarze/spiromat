@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="batik-svggen">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/batik-svggen.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
