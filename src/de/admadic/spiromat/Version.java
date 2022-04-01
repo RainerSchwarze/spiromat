@@ -37,17 +37,17 @@ public class Version {
 	/**
 	 * Version information for the application.
 	 */
-	final public static String version = "1.1.0"; //$NON-NLS-1$
+	final public static String version = "1.1.1"; //$NON-NLS-1$
 
 	/**
 	 * Version information for the application - use in Filesystem.
 	 */
-	final public static String versionFS = "1.1.0"; //$NON-NLS-1$
+	final public static String versionFS = "1.1.1"; //$NON-NLS-1$
 
 	/**
 	 * Version information for the application - use in licensing.
 	 */
-	final public static String versionLC = "1.1.0"; //$NON-NLS-1$
+	final public static String versionLC = "1.1.1"; //$NON-NLS-1$
 
 	/**
 	 * Don't need an instance.
