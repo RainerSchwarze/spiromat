@@ -33,5 +33,6 @@
     <orderEntry type="library" name="batik-util" level="project" />
     <orderEntry type="library" name="nanoxml-2.2.1" level="project" />
     <orderEntry type="library" name="junit-4.11" level="project" />
+    <orderEntry type="library" name="skinlf" level="project" />
   </component>
 </module>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="skinlf">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/skinlf.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
